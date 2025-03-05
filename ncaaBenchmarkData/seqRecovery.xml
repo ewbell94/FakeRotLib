@@ -1,0 +1,67 @@
+<ROSETTASCRIPTS>
+  <SCOREFXNS>
+    <ScoreFunction name="noref" weights="ref2015">
+      <Reweight scoretype="ref" weight="0.0" />
+    </ScoreFunction>
+  </SCOREFXNS>
+  <PACKER_PALETTES>
+    <CustomBaseTypePackerPalette name="xxrotamers" additional_residue_types="XXA,XXC,XXD,XXE,XXF,XXG,XXH,XXI,XXK,XXL,XXM,XXN,XXP,XXQ,XXR,XXS,XXT,XXV,XXW,XXY" />
+  </PACKER_PALETTES>
+  <TASKOPERATIONS>
+    <ReadResfile name="restrictxx" filename="xres.txt" />
+  </TASKOPERATIONS>
+  <RESIDUE_SELECTORS>
+    <ResidueName name="ala" residue_name3="ALA" />
+    <ResidueName name="cys" residue_name3="CYS" />
+    <ResidueName name="asp" residue_name3="ASP" />
+    <ResidueName name="glu" residue_name3="GLU" />
+    <ResidueName name="phe" residue_name3="PHE" />
+    <ResidueName name="his" residue_name3="HIS" />
+    <ResidueName name="gly" residue_name3="GLY" />
+    <ResidueName name="ile" residue_name3="ILE" />
+    <ResidueName name="lys" residue_name3="LYS" />
+    <ResidueName name="leu" residue_name3="LEU" />
+    <ResidueName name="met" residue_name3="MET" />
+    <ResidueName name="asn" residue_name3="ASN" />
+    <ResidueName name="pro" residue_name3="PRO" />
+    <ResidueName name="gln" residue_name3="GLN" />
+    <ResidueName name="arg" residue_name3="ARG" />
+    <ResidueName name="ser" residue_name3="SER" />
+    <ResidueName name="thr" residue_name3="THR" />
+    <ResidueName name="val" residue_name3="VAL" />
+    <ResidueName name="trp" residue_name3="TRP" />
+    <ResidueName name="tyr" residue_name3="TYR" />
+  </RESIDUE_SELECTORS>
+  <MOVERS>    
+    <ParsedProtocol name="mut" >
+      <MutateResidue name="xxa" residue_selector="ala" new_res="XXA" preserve_atom_coords="true" />
+      <MutateResidue name="xxc" residue_selector="cys" new_res="XXC" preserve_atom_coords="true" />
+      <MutateResidue name="xxd" residue_selector="asp" new_res="XXD" preserve_atom_coords="true" />
+      <MutateResidue name="xxe" residue_selector="glu" new_res="XXE" preserve_atom_coords="true" />
+      <MutateResidue name="xxf" residue_selector="phe" new_res="XXF" preserve_atom_coords="true" />
+      <MutateResidue name="xxg" residue_selector="gly" new_res="XXG" preserve_atom_coords="true" />
+      <MutateResidue name="xxh" residue_selector="his" new_res="XXH" preserve_atom_coords="true" />
+      <MutateResidue name="xxi" residue_selector="ile" new_res="XXI" preserve_atom_coords="true" />
+      <MutateResidue name="xxk" residue_selector="lys" new_res="XXK" preserve_atom_coords="true" />
+      <MutateResidue name="xxl" residue_selector="leu" new_res="XXL" preserve_atom_coords="true" />
+      <MutateResidue name="xxm" residue_selector="met" new_res="XXM" preserve_atom_coords="true" />
+      <MutateResidue name="xxn" residue_selector="asn" new_res="XXN" preserve_atom_coords="true" />
+      <MutateResidue name="xxp" residue_selector="pro" new_res="XXP" preserve_atom_coords="true" />
+      <MutateResidue name="xxq" residue_selector="gln" new_res="XXQ" preserve_atom_coords="true" />
+      <MutateResidue name="xxr" residue_selector="arg" new_res="XXR" preserve_atom_coords="true" />
+      <MutateResidue name="xxs" residue_selector="ser" new_res="XXS" preserve_atom_coords="true" />
+      <MutateResidue name="xxt" residue_selector="thr" new_res="XXT" preserve_atom_coords="true" />
+      <MutateResidue name="xxv" residue_selector="val" new_res="XXV" preserve_atom_coords="true" />
+      <MutateResidue name="xxw" residue_selector="trp" new_res="XXW" preserve_atom_coords="true" />
+      <MutateResidue name="xxy" residue_selector="tyr" new_res="XXY" preserve_atom_coords="true" />
+    </ParsedProtocol>
+
+    <PackRotamersMover name="prdesign" nloop="5" scorefxn="noref" task_operations="restrictxx" packer_palette="xxrotamers" />
+    <FastDesign name="fsdesign" disable_design="false" scorefxn="noref" task_operations="restrictxx" packer_palette="xxrotamers" />
+  </MOVERS>
+  <PROTOCOLS>
+    <Add mover="mut" />
+    <Add mover="prdesign" />
+    Add mover="fsdesign" />
+  </PROTOCOLS>
+</ROSETTASCRIPTS>
