@@ -23,7 +23,6 @@
   </RESIDUE_SELECTORS>
   <TASKOPERATIONS>
     <RestrictToRepacking name="rp" />
-    <InitializeFromCommandline name="cmd" />
   </TASKOPERATIONS>
   <MOVERS>    
     <ParsedProtocol name="mut" >
@@ -48,21 +47,10 @@
       <MutateResidue name="xxg" residue_selector="gly" new_res="XXG" preserve_atom_coords="true" />
       <MutateResidue name="xxp" residue_selector="pro" new_res="XXP" preserve_atom_coords="true" />
     </ParsedProtocol>
-    <RotamerTrialsMover name="rtm" scorefxn="REF2015" task_operations="rp" />
     <PackRotamersMover name="prm" scorefxn="REF2015" task_operations="rp" nloop="5" />
-    <PackRotamersMover name="prm_pdb" scorefxn="REF2015" task_operations="rp,cmd" nloop="5" />
   </MOVERS>
   <PROTOCOLS>
-    <Add mover="mut" />
-    
-    Add mover="rtm" />
-    Add mover="rtm" />
-    Add mover="rtm" />
-    Add mover="rtm" />
-    Add mover="rtm" />
-    
+    <Add mover="mut" />    
     <Add mover="prm" />
-    
-    Add mover="prm_pdb" />
   </PROTOCOLS>
 </ROSETTASCRIPTS>

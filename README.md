@@ -1,3 +1,21 @@
+FakeRotLib Publication Repository
+=================================
+
+This repository contains the code for the publication "FakeRotLib: expedient non-canonical amino acid parameterization in Rosetta". This includes the scripts used for the benchmark and a (historical) installation of Rosetta representative of what was used to generate the benchmark. For the latest developments in Rosetta, see the Rosetta main repository: <https://github.com/rosettacommons/main>.
+
+## What is included in this repository:
++ RosettaScripts mutating the canonical residues and calling the movers
++ Python scripts used to calculate rotamer and sequence recovery
++ Lists of each protein target derived from CATH
++ Rosetta code used to run the benchmarks, including FakeRotLib itself
+
+## What is NOT included in this repository:
++ Raw PDB files of each protein target, both native and Rosetta processed forms
++ The latest stable form of Rosetta (see <https://github.com/rosettacommons/main>)
++ Conda environments used for the python scripts
+
+Below is the description from the original Rosetta commons repository (preserved for historical purposes).
+
 Rosetta Biomolecular Modeling Library
 =====================================
 

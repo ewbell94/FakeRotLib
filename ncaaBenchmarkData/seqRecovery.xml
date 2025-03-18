@@ -57,11 +57,9 @@
     </ParsedProtocol>
 
     <PackRotamersMover name="prdesign" nloop="5" scorefxn="noref" task_operations="restrictxx" packer_palette="xxrotamers" />
-    <FastDesign name="fsdesign" disable_design="false" scorefxn="noref" task_operations="restrictxx" packer_palette="xxrotamers" />
   </MOVERS>
   <PROTOCOLS>
     <Add mover="mut" />
     <Add mover="prdesign" />
-    Add mover="fsdesign" />
   </PROTOCOLS>
 </ROSETTASCRIPTS>
