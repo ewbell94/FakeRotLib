@@ -1,0 +1,800 @@
+HETATM    1  N   XXG X   1       0.989   0.395   0.540  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.872  -0.991   0.156  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.514  -1.410  -0.098  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.740  -2.604  -0.386  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.541  -1.211  -0.725  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.234  -1.603   1.036  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.518   1.030  -0.097  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.952   0.502   0.487  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.858  -0.835  -0.043  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.536  -1.267  -0.202  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.765  -2.426  -0.601  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.433  -1.548   0.625  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.400  -0.870  -1.027  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.382   1.243  -0.100  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.073   0.287   0.577  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.896  -1.125   0.371  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.505  -1.415   0.039  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.853  -2.613  -0.119  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.538  -1.480  -0.480  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.216  -1.705   1.271  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.696   0.813  -0.069  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.062  -0.159   1.234  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.880  -0.862  -0.003  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.525  -1.292  -0.189  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.875  -1.884  -1.256  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.574  -1.725  -0.092  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.161  -0.166  -0.831  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.700  -0.598   1.948  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.019   0.359   0.556  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.864  -1.037   0.224  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.529  -1.433  -0.048  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.787  -2.634  -0.304  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.441  -1.270  -0.711  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.309  -1.661   1.051  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.589   0.954  -0.087  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.077  -0.148   1.108  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.830  -0.686  -0.200  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.547  -1.180  -0.320  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.933  -1.629  -1.426  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.058   0.084  -0.987  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.578  -1.504  -0.378  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.783  -0.607   1.718  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.954   0.543   0.489  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.866  -0.781  -0.073  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.536  -1.227  -0.216  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.794  -2.389  -0.649  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.359  -1.527   0.613  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.353  -0.833  -1.079  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.373   1.300  -0.103  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.952   0.510   0.477  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.845  -0.836  -0.032  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.546  -1.295  -0.186  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.729  -2.474  -0.574  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.339  -1.515   0.724  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.438  -0.971  -0.969  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.389   1.225  -0.142  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.899   0.541   0.468  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.847  -0.767  -0.129  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.537  -1.228  -0.232  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.791  -2.389  -0.683  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.479  -1.466   0.472  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.292  -0.744  -1.157  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.266   1.328  -0.113  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.013   0.350   0.585  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.863  -1.029   0.232  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.522  -1.399  -0.066  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.780  -2.600  -0.336  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.508  -1.294  -0.659  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.266  -1.636   1.098  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.605   0.953  -0.067  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.080  -0.181   1.169  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.863  -0.791  -0.114  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.542  -1.235  -0.265  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.958  -1.747  -1.351  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.113  -0.062  -0.949  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.568  -1.665  -0.231  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.741  -0.648   1.824  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.008   0.430   0.542  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.893  -0.957   0.170  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.504  -1.374  -0.081  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.770  -2.580  -0.372  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.488  -1.195  -0.741  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.263  -1.597   1.016  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.554   1.065  -0.113  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.997   0.376   0.535  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.883  -0.998   0.107  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.529  -1.344  -0.120  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.796  -2.543  -0.451  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.494  -1.173  -0.811  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.281  -1.694   0.899  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.512   1.037  -0.086  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.088  -0.142   1.197  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.856  -0.770  -0.079  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.531  -1.244  -0.238  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.843  -1.761  -1.342  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.593  -1.578  -0.287  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.038  -0.012  -0.883  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.769  -0.585   1.844  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.005  -0.178   1.304  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.890  -0.991   0.123  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.515  -1.360  -0.097  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.798  -2.029  -1.133  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.313  -0.475  -0.777  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.539  -1.902   0.257  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.549  -0.547   2.109  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.988   0.459   0.512  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.869  -0.916   0.089  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.520  -1.349  -0.128  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.785  -2.542  -0.455  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.521  -1.119  -0.782  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.285  -1.531   0.916  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.496   1.120  -0.130  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.073  -0.146   1.236  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.841  -0.868   0.007  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.558  -1.303  -0.185  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.818  -1.904  -1.260  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.125  -0.235  -0.875  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.493  -1.776  -0.025  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.728  -0.566   1.930  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.954   0.474   0.488  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.876  -0.869  -0.036  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.534  -1.262  -0.179  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.768  -2.452  -0.584  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.398  -1.573   0.657  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.358  -0.938  -1.048  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.386   1.201  -0.121  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.909   0.546   0.437  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.831  -0.800  -0.075  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.545  -1.307  -0.183  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.750  -2.482  -0.564  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.333  -0.828  -1.071  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.468  -1.447   0.574  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.290   1.308  -0.159  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.938   0.529   0.462  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.839  -0.807  -0.074  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.560  -1.268  -0.190  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.740  -2.448  -0.608  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.293  -0.862  -1.085  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.448  -1.513   0.549  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.352   1.278  -0.149  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.921   0.601   0.419  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.851  -0.735  -0.118  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.535  -1.231  -0.197  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.747  -2.415  -0.605  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.423  -1.378   0.611  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.336  -0.783  -1.126  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.289   1.363  -0.195  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.008   0.403   0.511  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.882  -0.985   0.138  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.528  -1.361  -0.076  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.802  -2.563  -0.364  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.431  -1.194  -0.820  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.329  -1.627   0.927  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.526   1.070  -0.116  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.112  -0.175   1.170  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.877  -0.752  -0.130  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.527  -1.192  -0.213  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.931  -1.685  -1.319  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.596  -1.566  -0.364  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.036   0.018  -0.917  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.799  -0.652   1.792  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.956   0.509   0.541  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.838  -0.809  -0.034  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.547  -1.275  -0.228  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.716  -2.433  -0.692  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.410  -1.533   0.590  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.340  -0.840  -1.027  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.414   1.252  -0.032  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.088  -0.152   1.196  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.880  -0.791  -0.079  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.512  -1.257  -0.232  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.932  -1.795  -1.295  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.156  -0.087  -0.901  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.516  -1.720  -0.148  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.749  -0.573   1.882  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.926   0.552   0.451  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.871  -0.762  -0.139  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.534  -1.222  -0.230  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.814  -2.385  -0.676  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.509  -1.482   0.419  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.276  -0.768  -1.181  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.295   1.330  -0.138  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.884   0.605   0.459  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.807  -0.698  -0.153  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.554  -1.257  -0.258  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.716  -2.409  -0.736  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.256  -0.684  -1.171  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.475  -1.390   0.429  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.236   1.398  -0.120  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.084  -0.158   1.178  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.836  -0.768  -0.103  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.561  -1.229  -0.272  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.942  -1.746  -1.361  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.522  -1.628  -0.264  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.023  -0.035  -0.916  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.774  -0.602   1.839  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.095  -0.179   1.212  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.848  -0.781  -0.070  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.544  -1.231  -0.239  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.870  -1.718  -1.352  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.051  -0.063  -0.905  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.549  -1.647  -0.220  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.760  -0.637   1.859  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.098  -0.132   1.092  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.823  -0.696  -0.199  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.573  -1.190  -0.265  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.965  -1.668  -1.372  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.527  -1.551  -0.363  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       0.969   0.060  -1.011  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.826  -0.578   1.701  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.079   0.286   0.580  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.880  -1.130   0.399  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.522  -1.457   0.066  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.896  -2.672  -0.081  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.546  -1.522  -0.414  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.189  -1.674   1.323  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.738   0.770  -0.108  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.110  -0.136   1.098  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.801  -0.674  -0.200  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.563  -1.177  -0.302  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.970  -1.633  -1.404  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.498  -1.523  -0.427  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.008   0.105  -0.997  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.852  -0.591   1.666  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.092  -0.136   1.262  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.864  -0.834   0.019  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.528  -1.286  -0.171  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.798  -1.866  -1.254  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.092  -0.137  -0.816  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.595  -1.666  -0.095  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.760  -0.560   1.957  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.109  -0.167   1.177  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.861  -0.784  -0.102  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.545  -1.221  -0.198  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.939  -1.740  -1.293  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.524  -1.659  -0.281  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.080  -0.087  -0.952  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.791  -0.630   1.816  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.073  -0.120   1.179  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.832  -0.770  -0.088  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.548  -1.260  -0.253  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.842  -1.793  -1.353  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.579  -1.607  -0.212  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.103  -0.081  -0.944  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.770  -0.562   1.827  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.992   0.412   0.515  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.904  -0.966   0.094  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.513  -1.321  -0.108  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.764  -2.526  -0.432  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.444  -1.122  -0.865  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.403  -1.650   0.817  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.487   1.089  -0.115  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.934   0.506   0.489  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.854  -0.826  -0.051  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.535  -1.277  -0.205  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.728  -2.460  -0.617  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.387  -1.558   0.616  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.323  -0.827  -1.066  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.347   1.260  -0.093  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.949   0.553   0.455  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.828  -0.781  -0.074  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.556  -1.265  -0.205  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.773  -2.434  -0.611  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.405  -1.476   0.601  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.282  -0.826  -1.094  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.363   1.299  -0.135  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.071   0.307   0.551  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.891  -1.105   0.328  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.522  -1.378   0.031  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.840  -2.595  -0.131  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.501  -1.473  -0.528  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.240  -1.656   1.240  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.674   0.845  -0.104  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.954   0.472   0.514  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.895  -0.867   0.028  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.497  -1.307  -0.170  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.774  -2.492  -0.547  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.395  -0.975  -0.978  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.389  -1.567   0.751  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.416   1.196  -0.111  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.086  -0.155   1.194  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.827  -0.778  -0.086  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.551  -1.247  -0.269  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.884  -1.753  -1.361  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.005   0.001  -0.891  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.563  -1.597  -0.273  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.779  -0.600   1.858  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.095  -0.165   1.190  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.841  -0.791  -0.084  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.554  -1.237  -0.218  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.882  -1.750  -1.324  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.112  -0.043  -0.866  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.473  -1.698  -0.208  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.778  -0.612   1.850  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.994   0.430   0.522  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.867  -0.927   0.056  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.543  -1.328  -0.150  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.817  -2.514  -0.515  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.458  -1.093  -0.880  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.289  -1.593   0.861  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.494   1.136  -0.088  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.091  -0.140   1.174  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.829  -0.782  -0.093  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.566  -1.246  -0.246  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.863  -1.780  -1.347  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.123  -0.076  -0.903  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.512  -1.650  -0.215  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.795  -0.580   1.827  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.120  -0.128   1.127  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.832  -0.688  -0.168  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.551  -1.191  -0.260  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.916  -1.661  -1.382  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.564  -1.496  -0.429  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       0.981   0.102  -0.957  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.850  -0.583   1.706  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.957   0.496   0.511  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.864  -0.849  -0.007  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.532  -1.290  -0.177  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.701  -2.476  -0.589  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.327  -1.535   0.765  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.446  -0.945  -0.961  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.412   1.229  -0.091  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.087  -0.121   1.185  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.833  -0.802  -0.062  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.555  -1.283  -0.226  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.871  -1.852  -1.303  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.562  -1.657  -0.156  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.119  -0.130  -0.917  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.776  -0.535   1.848  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.981   0.468   0.530  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.843  -0.870   0.009  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.555  -1.299  -0.183  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.786  -2.479  -0.602  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.339  -1.563   0.723  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.407  -0.993  -0.951  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.466   1.176  -0.073  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.065  -0.155   1.276  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.874  -0.911   0.065  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.526  -1.332  -0.132  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.846  -1.966  -1.175  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.247  -0.290  -0.785  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.488  -1.838   0.078  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.694  -0.532   2.045  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.031  -0.147   1.274  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.862  -0.907   0.062  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.522  -1.343  -0.165  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.769  -1.964  -1.230  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.226  -0.259  -0.797  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.527  -1.810   0.109  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.638  -0.525   2.045  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.117  -0.130   1.099  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.798  -0.626  -0.203  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.565  -1.145  -0.308  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.995  -1.571  -1.422  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       0.951   0.223  -0.923  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.493  -1.464  -0.484  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.879  -0.608   1.642  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.961   0.504   0.506  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.840  -0.832  -0.023  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.540  -1.305  -0.210  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.765  -2.467  -0.620  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.439  -1.547   0.617  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.341  -0.890  -1.018  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.413   1.238  -0.078  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.121  -0.115   1.114  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.840  -0.647  -0.193  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.540  -1.169  -0.275  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.917  -1.617  -1.401  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       0.944   0.176  -0.931  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.590  -1.450  -0.450  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.858  -0.558   1.705  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.016   0.421   0.494  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.879  -0.976   0.156  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.522  -1.366  -0.060  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.747  -2.588  -0.312  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.505  -1.254  -0.721  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.252  -1.590   1.015  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.542   1.051  -0.155  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.104  -0.060   1.078  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.787  -0.663  -0.194  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.573  -1.223  -0.281  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.918  -1.722  -1.379  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.565  -1.443  -0.422  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       0.939   0.108  -0.991  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.882  -0.476   1.661  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.867   0.589   0.452  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.809  -0.703  -0.190  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.553  -1.234  -0.271  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.737  -2.379  -0.759  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.417  -1.418   0.414  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.258  -0.611  -1.215  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.192   1.452  -0.079  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.954   0.480   0.520  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.857  -0.866   0.022  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.524  -1.346  -0.182  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.730  -2.522  -0.571  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.367  -0.887  -0.988  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.406  -1.592   0.668  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.413   1.205  -0.066  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.013   0.414   0.567  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.845  -0.942   0.103  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.556  -1.337  -0.150  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.750  -2.523  -0.521  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.328  -1.591   0.875  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.478  -1.104  -0.811  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.557   1.065  -0.038  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.940   0.567   0.498  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.912  -0.780  -0.015  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.476  -1.263  -0.188  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.702  -2.454  -0.586  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.480  -1.454   0.681  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.383  -0.817  -1.019  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.348   1.332  -0.080  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.075  -0.186   1.230  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.860  -0.867  -0.023  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.550  -1.270  -0.195  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.907  -1.843  -1.284  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.544  -1.759  -0.106  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.144  -0.144  -0.846  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.710  -0.633   1.926  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.990   0.495   0.477  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.841  -0.867   0.025  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.556  -1.309  -0.143  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.749  -2.502  -0.491  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.413  -1.538   0.711  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.375  -0.995  -0.964  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.464   1.177  -0.151  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.074  -0.198   1.270  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.860  -0.938   0.059  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.558  -1.332  -0.149  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.894  -1.954  -1.202  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.510  -1.862   0.085  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.248  -0.356  -0.807  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.682  -0.599   2.004  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.039   0.338   0.522  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.907  -1.082   0.298  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.506  -1.401   0.035  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.790  -2.634  -0.129  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.564  -1.419  -0.551  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.213  -1.670   1.204  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.607   0.887  -0.151  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.109  -0.157   1.194  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.880  -0.749  -0.094  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.518  -1.209  -0.217  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.887  -1.711  -1.325  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.543  -1.646  -0.206  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.092  -0.023  -0.923  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.788  -0.593   1.852  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.964   0.504   0.508  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.858  -0.817  -0.042  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.543  -1.266  -0.219  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.750  -2.442  -0.655  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.399  -1.550   0.616  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.388  -0.831  -1.040  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.405   1.255  -0.065  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.930   0.534   0.490  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.826  -0.798  -0.051  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.549  -1.301  -0.204  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.701  -2.472  -0.629  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.455  -1.481   0.575  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.294  -0.823  -1.063  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.353   1.291  -0.102  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.109  -0.142   1.166  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.848  -0.756  -0.103  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.548  -1.236  -0.252  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.952  -1.764  -1.336  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.078   0.015  -0.883  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.535  -1.610  -0.302  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.803  -0.583   1.791  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.977   0.440   0.510  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.887  -0.920   0.046  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.521  -1.317  -0.144  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.748  -2.512  -0.507  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.382  -0.959  -0.963  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.426  -1.615   0.737  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.447   1.154  -0.084  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.982   0.418   0.504  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.888  -0.959   0.098  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.517  -1.335  -0.105  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.802  -2.546  -0.408  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.499  -1.172  -0.807  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.277  -1.632   0.920  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.476   1.092  -0.147  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.085  -0.124   1.188  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.874  -0.797  -0.070  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.524  -1.265  -0.209  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.887  -1.844  -1.288  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.586  -1.645  -0.205  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.038  -0.074  -0.905  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.766  -0.532   1.883  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.880   0.643   0.470  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.769  -0.615  -0.228  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.596  -1.161  -0.306  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.744  -2.275  -0.865  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.421  -1.367   0.281  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.169  -0.502  -1.262  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.207   1.493  -0.039  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.970   0.486   0.533  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.844  -0.834  -0.008  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.544  -1.275  -0.208  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.776  -2.444  -0.644  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.352  -1.541   0.683  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.375  -0.905  -0.982  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.444   1.229  -0.041  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.039  -0.206   1.334  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.880  -0.964   0.127  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.530  -1.319  -0.096  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.815  -1.953  -1.166  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.459  -1.928   0.185  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.300  -0.412  -0.739  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.608  -0.617   2.106  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.972   0.510   0.511  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.870  -0.834  -0.005  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.525  -1.269  -0.187  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.727  -2.442  -0.589  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.445  -1.559   0.626  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.356  -0.880  -1.017  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.433   1.274  -0.067  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.910   0.571   0.427  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.857  -0.742  -0.146  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.540  -1.205  -0.215  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.749  -2.381  -0.655  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.494  -1.431   0.467  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.249  -0.690  -1.188  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.258   1.364  -0.141  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.100  -0.142   1.187  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.829  -0.772  -0.083  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.557  -1.244  -0.241  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.874  -1.763  -1.340  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.499  -1.651  -0.214  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.097  -0.015  -0.876  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.804  -0.573   1.847  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.972   0.458   0.535  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.842  -0.895   0.062  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.539  -1.351  -0.162  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.699  -2.541  -0.529  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.453  -1.035  -0.856  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.321  -1.543   0.859  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.464   1.147  -0.070  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.120  -0.068   1.088  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.796  -0.652  -0.189  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.573  -1.206  -0.283  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.905  -1.694  -1.395  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       0.917   0.088  -1.021  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.510  -1.469  -0.429  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.893  -0.492   1.643  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.051   0.384   0.558  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.902  -1.015   0.267  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.487  -1.380  -0.027  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.762  -2.591  -0.260  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.548  -1.256  -0.617  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.253  -1.610   1.148  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.647   1.007  -0.067  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.025   0.364   0.516  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.869  -1.039   0.237  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.527  -1.453  -0.014  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.836  -2.665  -0.223  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.499  -1.328  -0.642  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.302  -1.584   1.125  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.581   0.951  -0.143  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.114  -0.092   1.139  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.836  -0.679  -0.139  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.538  -1.209  -0.260  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.936  -1.721  -1.355  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.531  -1.519  -0.353  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.002   0.066  -0.951  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.853  -0.519   1.738  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.003   0.373   0.517  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.898  -1.025   0.175  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.511  -1.365  -0.053  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.779  -2.587  -0.310  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.430  -1.234  -0.787  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.337  -1.678   0.974  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.525   1.002  -0.129  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.023   0.381   0.586  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.859  -0.995   0.181  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.534  -1.384  -0.111  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.774  -2.577  -0.425  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.279  -1.699   0.942  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.519  -1.172  -0.720  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.587   1.023  -0.009  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.979   0.512   0.465  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.887  -0.848   0.002  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.523  -1.285  -0.148  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.783  -2.487  -0.503  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.417  -1.522   0.735  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.368  -0.986  -0.995  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.419   1.219  -0.155  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.098  -0.151   1.179  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.828  -0.803  -0.073  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.562  -1.266  -0.238  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.945  -1.820  -1.311  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.092  -0.077  -0.897  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.534  -1.646  -0.230  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.789  -0.586   1.827  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.907   0.618   0.411  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.824  -0.703  -0.141  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.552  -1.245  -0.219  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.731  -2.416  -0.641  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.480  -1.351   0.497  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.237  -0.684  -1.177  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.253   1.400  -0.165  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.931   0.531   0.495  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.819  -0.788  -0.064  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.565  -1.273  -0.224  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.703  -2.443  -0.671  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.342  -1.535   0.605  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.383  -0.877  -1.029  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.374   1.273  -0.126  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.997   0.389   0.496  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.898  -1.002   0.130  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.521  -1.366  -0.067  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.831  -2.584  -0.347  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.347  -1.657   0.912  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.457  -1.231  -0.801  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.504   1.030  -0.169  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.942   0.554   0.445  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.885  -0.783  -0.084  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.521  -1.230  -0.188  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.755  -2.424  -0.596  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.424  -1.495   0.582  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.345  -0.842  -1.106  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.330   1.307  -0.156  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.066  -0.223   1.258  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.882  -0.890   0.007  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.514  -1.276  -0.204  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.926  -1.836  -1.263  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.549  -1.803  -0.031  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.202  -0.170  -0.784  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.668  -0.649   1.986  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.039   0.307   0.538  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.874  -1.104   0.362  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.518  -1.464   0.072  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.850  -2.679  -0.055  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.583  -1.475  -0.420  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.207  -1.645   1.292  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.634   0.851  -0.124  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.082  -0.114   1.173  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.820  -0.778  -0.080  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.551  -1.275  -0.254  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.867  -1.827  -1.331  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.486  -1.661  -0.187  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.120  -0.101  -0.936  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.799  -0.531   1.840  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.088  -0.177   1.257  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.842  -0.872   0.023  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.559  -1.292  -0.186  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.875  -1.874  -1.264  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.187  -0.197  -0.820  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.478  -1.792  -0.036  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.732  -0.604   1.952  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       0.904   0.527   0.488  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.848  -0.779  -0.104  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.529  -1.283  -0.247  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.780  -2.442  -0.701  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.465  -1.494   0.517  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.381  -0.759  -1.102  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.282   1.325  -0.071  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.087  -0.139   1.173  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.866  -0.825  -0.075  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.538  -1.279  -0.196  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.940  -1.867  -1.258  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.123  -0.155  -0.922  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.563  -1.700  -0.188  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.762  -0.540   1.877  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.063  -0.217   1.232  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.858  -0.866  -0.033  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.540  -1.255  -0.201  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.899  -1.783  -1.288  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.220  -0.191  -0.842  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.486  -1.795  -0.062  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.685  -0.640   1.979  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.008   0.434   0.535  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.846  -0.936   0.115  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.536  -1.364  -0.131  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.754  -2.553  -0.451  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.376  -1.591   0.846  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.413  -1.108  -0.847  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.537   1.091  -0.076  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.120  -0.144   1.098  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.854  -0.691  -0.207  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.544  -1.173  -0.253  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -1.026  -1.653  -1.346  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       0.937   0.105  -1.000  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.557  -1.527  -0.454  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.840  -0.616   1.686  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.117  -0.137   1.149  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.806  -0.687  -0.147  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.577  -1.183  -0.293  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.907  -1.633  -1.421  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       1.042   0.051  -0.966  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.522  -1.535  -0.377  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.850  -0.608   1.720  1.00 20.00           H  
+TER                                                                             
+HETATM    1  N   XXG X   1       1.124  -0.099   1.097  1.00 20.00           N  
+HETATM    2  CA  XXG X   1       0.803  -0.640  -0.191  1.00 20.00           C  
+HETATM    3  C   XXG X   1      -0.573  -1.173  -0.307  1.00 20.00           C  
+HETATM    4  O   XXG X   1      -0.971  -1.637  -1.415  1.00 20.00           O  
+HETATM    5 1HA  XXG X   1       0.907   0.134  -0.996  1.00 20.00           H  
+HETATM    6 2HA  XXG X   1       1.523  -1.482  -0.396  1.00 20.00           H  
+HETATM    7  H   XXG X   1       1.884  -0.546   1.655  1.00 20.00           H  
+TER                                                                             

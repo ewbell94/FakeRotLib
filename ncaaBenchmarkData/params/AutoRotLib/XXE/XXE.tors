@@ -1,0 +1,8 @@
+XXE   CA    LOWER    N      H    0  80  2
+DXXE  CA    LOWER    N      H    0  80  2
+XXE   CA     C     UPPER    O    0  80  2
+DXXE  CA     C     UPPER    O    0  80  2
+XXE   CA     C      O     UPPER  0  80  2
+DXXE  CA     C      O     UPPER  0  80  2
+XXE   CG     CD     OE2    OE1  0  80  2
+DXXE  CG     CD     OE2    OE1  0  80  2

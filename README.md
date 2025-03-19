@@ -7,6 +7,7 @@ This repository contains the code for the publication "FakeRotLib: expedient non
 + RosettaScripts mutating the canonical residues and calling the movers
 + Python scripts used to calculate rotamer and sequence recovery
 + Lists of each protein target derived from CATH
++ Params files for each canonical residue under each NCAA parameterization scheme
 + Rosetta code used to run the benchmarks, including FakeRotLib itself
 
 ## What is NOT included in this repository:

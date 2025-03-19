@@ -1,0 +1,73 @@
+Title = 
+Warning: Cannot perform Hydrogen sampling with GPU-Omega: GPU-Omega disabled.
+Library fragment = CC(=O)NC
+Library fragment = CC(=O)N1CCC[C@H]1[CH2]
+Library fragment = C[CH2]
+Library fragment = CN
+Library fragment = CC(=O)N1CCC[C@H]1[CH2]
+ring conformation template = CC(=O)N1CCC[C@H]1[CH2]
+TorRule: [O:1]=[C:2](N)[CX4H:3][H:4]  19   6   1  11
+TorRule angles: 180.00 150.00 -150.00 120.00 -120.00 90.00 -90.00 60.00 -60.00 30.00 -30.00 0.00 
+TorRule: [O:1]=[C:2][NX3H:3][C,N:4]  11   1  10   8
+TorRule angles: 0.00 
+TorRule: [O:1]=[C:2][NX3H0:3][C:4]   5   9   2  12
+TorRule angles: 0.00 180.00 30.00 -30.00 150.00 -150.00 
+num confs = 46
+elapsed time (s) = 0.18
+
+***
+generated 46 conformers for XXP.smi
+***
+assigning AM1BCC charges with ELF10 method...
+
+found single backbone match in query
+detected backbone cyclization to N atom
+
+Total initial charge for backbone = -0.265030
+Total initial charge for backbone (excluding caps) = -0.319890
+
+NCYCLE = True
+CACYCLE = False
+CABRANCH = False
+PEPTOID = False
+NMETH = False
+
+proline-like REF2015 backbone charges:
+  partial charge on  N being modified from -0.4678 to -0.3730 -- difference =  0.0948
+  partial charge on CA being modified from  0.0408 to  0.0257 -- difference = -0.0151
+  partial charge on HA being modified from  0.0691 to  0.1158 -- difference =  0.0467
+  partial charge on  C being modified from  0.6262 to  0.6885 -- difference =  0.0623
+  partial charge on  O being modified from -0.5881 to -0.6885 -- difference = -0.1004
+adjusted backbone charge sum = -0.231500
+
+Total charge for side chain = 0.265030
+  adjusting charge of atom C4 by -0.016765: -0.084570 -> -0.101335
+  adjusting charge of atom C5 by -0.016765: 0.090710 -> 0.073945
+adjusted side chain charge = 0.231500
+
+final sum of partial charges = -0.000000
+
+getting TorRule for bond between C.2 and C.3
+torsion between   C.2 and   C.3:     1 --    6     180  150 -150  120 -120   90  -90   60  -60   30  -30    0 
+getting TorRule for bond between C.2 and N.am
+torsion between   C.2 and  N.am:     1 --   10       0 
+getting TorRule for bond between C.2 and O.2
+getting TorRule for bond between C.2 and C.3
+torsion between   C.2 and   C.3:     2 --    7       0   30  -30   60  -60   90  -90  120 -120 -150  150  180 
+getting TorRule for bond between C.2 and N.am
+torsion between   C.2 and  N.am:     2 --    9       0  180   30  -30  150 -150 
+getting TorRule for bond between C.2 and O.2
+getting TorRule for bond between C.3 and C.3
+torsion between   C.3 and   C.3:     3 --    4     180   60  -60 
+getting TorRule for bond between C.3 and C.3
+torsion between   C.3 and   C.3:     3 --    5     180   60  -60 
+getting TorRule for bond between C.3 and C.3
+torsion between   C.3 and   C.3:     4 --    6     180   60  -60   40  -40   80  -80 -160  160 
+getting TorRule for bond between C.3 and N.am
+torsion between   C.3 and  N.am:     5 --    9      60  -60   90  -90  120 -120 
+getting TorRule for bond between C.3 and N.am
+torsion between   C.3 and  N.am:     6 --    9       0   30  -30   60  -60   90  -90  120 -120 -150  150  180 
+getting TorRule for bond between C.3 and N.am
+torsion between   C.3 and  N.am:     8 --   10       0   30  -30   60  -60   90  -90  120 -120 -150  150  180 
+
+writing output mol2

@@ -1,0 +1,50 @@
+<ROSETTASCRIPTS>
+	<RESIDUE_SELECTORS>
+		<Index name="pos" resnums="%%pos%%"/>
+		<PrimarySequenceNeighborhood name="seq_nbrs" selector="pos" lower="1" upper="1" />
+                <Neighborhood name="nbrs" selector="pos" distance="4.0"/>
+                <Not name="not_nbrs" selector="nbrs"/>
+		<Not name="not_pos" selector="pos" />
+	</RESIDUE_SELECTORS>
+        <TASKOPERATIONS>
+                <RestrictToRepacking name="rtrp"/>
+                <OperateOnResidueSubset name="fix_notnbrs" selector="not_nbrs" >
+                        <PreventRepackingRLT/>
+                </OperateOnResidueSubset>
+		<OperateOnResidueSubset name="fix_notpos" selector="not_pos" >
+		        <PreventRepackingRLT/>
+		</OperateOnResidueSubset>
+        </TASKOPERATIONS>
+        <MOVERS>
+		<PDBTrajectoryRecorder name="record_pdb" stride="1" filename="MH_Traj.pdb.gz" cumulate_jobs="0" cumulate_replicas="0"/>
+
+                <FastRelax name="relax" scorefxn="REF2015" repeats="2" task_operations="rtrp,fix_notnbrs">
+		        <MoveMap bb="false" chi="true" jump="false" />
+		</FastRelax>
+                
+		<MutateResidue name="mutate" residue_selector="pos" new_res="%%res%%" />
+
+                # MCMC
+                <Sidechain name="sidechain" task_operations="rtrp,fix_notpos" />
+		<Shear name="shear" residue_selector="seq_nbrs" scorefxn="REF2015" temperature="1.0" nmoves="1" angle_max="2.0" preserve_detailed_balance="1"/>
+		<MetropolisHastings name="mh_burnin" scorefxn="REF2015" temperature="1.0" trials="10000">
+		        <Add mover_name="sidechain" />
+			<Add mover_name="shear" />
+		</MetropolisHastings>
+		<MetropolisHastings name="mh" scorefxn="REF2015" temperature="1.0" trials="100000">
+			<Add mover_name="sidechain"/>
+			<Add mover_name="shear" />
+                        <Add mover_name="record_pdb"/>
+                </MetropolisHastings>
+
+        </MOVERS>
+        <APPLY_TO_POSE>
+        </APPLY_TO_POSE>
+        <PROTOCOLS>
+		<Add mover_name="mutate"/>
+		<Add mover_name="relax"/>
+		<Add mover_name="mh_burnin" />
+		<Add mover_name="mh"/>
+        </PROTOCOLS>
+        <OUTPUT />
+</ROSETTASCRIPTS>

@@ -1,0 +1,87 @@
+Title = 
+Library fragment = CN
+Library fragment = CNC(=O)C(CCCN)N
+Library fragment = CNC(=[NH2+])N
+Library fragment = CC(=O)NC
+TorRule: [O:1]=[C:2][NX3H:3][C,N:4]   9  12   1  15
+TorRule angles: 0.00 
+TorRule: [O:1]=[C:2](N)[CX4H:3][H:4]  29   9   2  16
+TorRule angles: 180.00 150.00 -150.00 120.00 -120.00 90.00 -90.00 60.00 -60.00 30.00 -30.00 0.00 
+TorRule: [O:1]=[C:2][NX3H:3][C,N:4]  16   2  11   5
+TorRule angles: 0.00 
+TorRule: [C:1][NH:2][C:3](=[NH2+:4])[NH2]   8  13   3  14
+TorRule angles: 0.00 
+TorRule: [*:1]~[^3H2:2]-[^3H2:3]~[*:4]  25   7   6   8
+TorRule angles: 180.00 60.00 -60.00 
+TorRule: [*:1]~[^3H2:2]-[^3H2:3]~[*:4]   7   6   8  27
+TorRule angles: 180.00 60.00 -60.00 
+TorRule: [*:1]~[^3:2]-[^3:3]~[*:4]  25   7   9   2
+TorRule angles: 180.00 60.00 -60.00 40.00 -40.00 80.00 -80.00 -160.00 160.00 
+TorRule: [NH2][C:1](=[NH2])[NH:2][CH2:3][C:4]   6   8  13   3
+TorRule angles: 80.00 -80.00 110.00 -110.00 150.00 -150.00 180.00 
+TorRule: O=[C:1][NH:2][CH:3]([CH2,CH3])(C)[H:4]  29   9  12   1
+TorRule angles: 0.00 30.00 60.00 -30.00 -60.00 180.00 
+Symmetric Bond =   3  13
+num confs = 500
+elapsed time (s) = 1.21
+
+***
+generated 500 conformers for XXR.smi
+***
+assigning AM1BCC charges with ELF10 method...
+
+found single backbone match in query
+
+Total initial charge for backbone = -0.000400
+Total initial charge for backbone (excluding caps) = -0.093450
+
+NCYCLE = False
+CACYCLE = False
+CABRANCH = False
+PEPTOID = False
+NMETH = False
+
+standard REF2015 backbone charges:
+  partial charge on  N being modified from -0.5574 to -0.6046 -- difference = -0.0472
+  partial charge on  H being modified from  0.3182 to  0.3988 -- difference =  0.0806
+  partial charge on CA being modified from  0.0189 to  0.0900 -- difference =  0.0711
+  partial charge on HA being modified from  0.0946 to  0.1158 -- difference =  0.0212
+  partial charge on  C being modified from  0.6281 to  0.6885 -- difference =  0.0604
+  partial charge on  O being modified from -0.5958 to -0.6885 -- difference = -0.0927
+adjusted backbone charge sum = -0.000000
+
+Total charge for side chain = 1.000400
+adjusting charge of atom C7 by -0.000400: -0.076160 -> -0.076560
+adjusted side chain charge = 1.000000
+
+final sum of partial charges = 1.000000
+
+getting TorRule for bond between C.2 and C.3
+torsion between   C.2 and   C.3:     1 --    4       0   30  -30   60  -60   90  -90  120 -120 -150  150  180 
+getting TorRule for bond between C.2 and N.am
+torsion between   C.2 and  N.am:     1 --   12       0 
+getting TorRule for bond between C.2 and O.2
+getting TorRule for bond between C.2 and C.3
+torsion between   C.2 and   C.3:     2 --    9     180  150 -150  120 -120   90  -90   60  -60   30  -30    0 
+getting TorRule for bond between C.2 and N.am
+torsion between   C.2 and  N.am:     2 --   11       0 
+getting TorRule for bond between C.2 and O.2
+getting TorRule for bond between C.cat and N.pl3
+torsion between C.cat and N.pl3:     3 --   10      30  -30  150 -150    0  180   90  -90   60  -60  120 -120 
+getting TorRule for bond between C.cat and N.pl3
+torsion between C.cat and N.pl3:     3 --   13       0 
+getting TorRule for bond between C.cat and N.pl3
+getting TorRule for bond between C.3 and N.am
+torsion between   C.3 and  N.am:     5 --   11       0   30  -30   60  -60   90  -90  120 -120 -150  150  180 
+getting TorRule for bond between C.3 and C.3
+torsion between   C.3 and   C.3:     6 --    7     180   60  -60 
+getting TorRule for bond between C.3 and C.3
+torsion between   C.3 and   C.3:     6 --    8     180   60  -60 
+getting TorRule for bond between C.3 and C.3
+torsion between   C.3 and   C.3:     7 --    9     180   60  -60   40  -40   80  -80 -160  160 
+getting TorRule for bond between C.3 and N.pl3
+torsion between   C.3 and N.pl3:     8 --   13      80  -80  110 -110  150 -150  180 
+getting TorRule for bond between C.3 and N.am
+torsion between   C.3 and  N.am:     9 --   12       0   30   60  -30  -60  180 
+
+writing output mol2
